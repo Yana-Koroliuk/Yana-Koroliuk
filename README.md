@@ -1,12 +1,7 @@
 <code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>🧑‍💻 Languages: Java, JavaScript, Python</code><br>
+<code>💬 telegram: [@Koroliuk_Yana](https://t.me/Koroliuk_Yana)</code>
+<code>📫 [yana.koroliuk1@gmail.com](mailto:yana.koroliuk1@gmail.com)</code>
+<code>💬 hackerrank: [Yana_Koroliuk](https://www.hackerrank.com/Yana_Koroliuk)</code>
