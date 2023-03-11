@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IM-11</code>
+<code>🎓 Student: KPI / IM-22</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: Java, JavaScript, Python</code><br>
